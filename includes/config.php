@@ -16,7 +16,7 @@
 
 		define('DB_USER', 'root');
 
-		define('DB_PWD', '');
+		define('DB_PWD', 'uploadfile');
 
 		define('DB_NAME', 'uploadfile');
 
